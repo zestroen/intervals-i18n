@@ -11,6 +11,7 @@ you can take it from there.
 - CEscorcio (pt)
 - Nicolas Pignier (fr)
 - Dmitriy Rumyantsev (ru)
+ 
 (Your name here! Send me a PR!)
 
 ## Copyright
